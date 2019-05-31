@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="clouds">Clouds</string>
+    <string name="_26_c">26 C</string>
+    <string name="country">Country:</string>
+    <string name="city">City:</string>
+    <string name="update_day">Update day</string>
+    <string name="wind">Wind</string>
+    <string name="cloud">Cloud</string>
+    <string name="humidity">Himidity</string>
+    <string name="option_menu_title">menu_title</string>
+    <string name="settings_actionbar_label">Setting</string>
+    <string name="enlarged_text">Enlarged Text</string>
+
+    <string name="get_fahrenheit">Display Fahrenheit</string>
+    <string name="get_fahrenheit_true">Temperature is set  to \u2109</string>
+    <string name="get_fahrenheit_false">Temperature is set  to \u2103</string>
+    <string name="enlarged_status_true">Enlarged Text is on </string>
+    <string name="enlarged_status_false">Enlarged Text is off</string>
+    <string name="humidityDes">Humidity</string>
+    <string name="cloudDes">TODO</string>
+    <string name="windDes">Wind</string>
+</resources>
